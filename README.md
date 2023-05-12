@@ -8,4 +8,10 @@ Que 2. write a c program to read and display  integer.
 
 Que 3. write a c program to add two number.
 
+Que 4.Write a c program to find factorial of given number.
+
+Que 5.Write a c program to find square of a given number.
+
+Que 6.Write a c program to read a number and check that  the number is even or odd.
+
 
