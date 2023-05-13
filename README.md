@@ -14,4 +14,6 @@ Que 5.Write a c program to find square of a given number.
 
 Que 6.Write a c program to read a number and check that  the number is even or odd.
 
+Que 7.Write a c program to read two number and check that the largest number.
+
 
