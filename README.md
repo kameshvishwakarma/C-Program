@@ -16,4 +16,4 @@ Que 6.Write a c program to read a number and check that  the number is even or o
 
 Que 7.Write a c program to read two number and check that the largest number.
 
-
+Que 8.Write a c program to read a number and check that the number is real or not.
