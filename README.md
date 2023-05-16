@@ -20,3 +20,6 @@ Que 8.Write a c program to read a number and check that the number is real or no
 
 Que 9.Write a c program to read a number and check that the number is Natural or not.
 
+Que 10.Write a c program to read a number and check that the number is prime number or not.
+
+
