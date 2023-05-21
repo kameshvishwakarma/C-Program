@@ -25,3 +25,5 @@ Que 10.Write a c program to read a number and check that the number is prime num
 Que 11.Write a c progrmam to read  a  number and check that the number is perfect or not.
 
 Que 12. write c program to read  a character  and check that is vovel or consonant.
+
+Que 13. Write a c program to three number and check that is gretest number.
