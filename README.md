@@ -29,3 +29,5 @@ Que 12. write c program to read  a character  and check that is vovel or consona
 Que 13. Write a c program to  read three number and check that is gretest number.
 
 Que 14. Write a c program to read a number and check that is armstrong or not.
+
+Que 15.write a c program to read  a number and check that is palindrom number or not .
