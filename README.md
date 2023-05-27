@@ -32,4 +32,3 @@ Que 14. Write a c program to read a number and check that is armstrong or not.
 
 Que 15.write a c program to read  a number and check that is palindrom number or not .
 
-Que 16.Write a c program  to read an number and findout its square.
